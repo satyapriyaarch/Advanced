@@ -36,7 +36,7 @@ class LandmarkActivity : AppCompatActivity() {
     override fun onStop() {
         super.onStop()
     }
-
+  
 
     fun deleteLandmark(view: View) {
 
